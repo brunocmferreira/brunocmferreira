@@ -4,6 +4,7 @@ Atualmente estudo Desenvolvimento Web na <a href="https://www.betrybe.com/formac
 Perfil profissional:
 <div><br>
   <a href="https://www.linkedin.com/in/brunocmferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  E-mail para contato: brunoferreira.trybe@gmail.com
 </div>
 <hr>
 Tecnologias:
