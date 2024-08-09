@@ -1,5 +1,5 @@
 ### Oi, eu sou o Bruno!
-Desenvolvedor Fullstack atuando com ênfase em frontend
+Desenvolvedor Fullstack atuando com ênfase em Frontend
 <hr>
 Perfil profissional:
 <div><br>
