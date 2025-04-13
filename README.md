@@ -33,7 +33,7 @@
   <h3>Stacks:</h3>
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,go,html,css,docker,git,github" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,go,html,css,tailwind,docker,git,github" />
   </a>
   </p>
 
