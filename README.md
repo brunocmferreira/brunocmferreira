@@ -39,9 +39,12 @@
 
   <hr>
 
-  <div style="display: flex; gap: 20px;">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoferreira89&theme=vue-dark&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoferreira89&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
-  </div>
+<div style="display: flex; justify-content: flex-start; gap: 20px;">
+  <!-- Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoferreira89&theme=vue-dark&hide_border=true"/>
+
+  <!-- Top Languages Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoferreira89&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+</div>
 
 </div>
