@@ -16,8 +16,10 @@ Tecnologias:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="48px" width="48px" />
 
 </div><br>
-  
- <div align="left">
-  <a href="https://github.com/brunoferreira89">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoferreira89&layout=compact&langs_count=7&theme=dark"/>
+
+<div align="left">
+  <div>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoferreira89&theme=vue-dark&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoferreira89&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+  </div>    
 </div>
