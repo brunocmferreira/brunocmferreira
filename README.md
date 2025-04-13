@@ -1,11 +1,11 @@
 <div align="left">
 
   <!-- Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=56B6C2&background=FFFFFF00&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=435&height=50&lines=Bruno+Ferreira;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=56B6C2&background=FFFFFF00&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=435&height=50&lines=Bruno+Ferreira;Fullstack+Web+Developer)](https://git.io/typing-svg)
 
   <h3>Formações:</h3>
   <ul>
-    <li>Formação em Desenvolvimento Full Stack - Trybe (2023-2024)</li>
+    <li>Formação em Desenvolvimento Fullstack - Trybe (2023-2024)</li>
     <li>Análise e Desenvolvimento de Sistemas - Centro Universitário FAM (2021-2023)</li>    
   </ul>
   <hr>
