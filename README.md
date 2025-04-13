@@ -1,7 +1,7 @@
 <div align="left">
 
   <!-- Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=56B6C2&background=FFFFFF00&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=435&height=50&lines=Bruno+Ferreira;Full+Stack+Web+Developer)](https://git.io/typing-svg)<hr>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=56B6C2&background=FFFFFF00&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=435&height=50&lines=Bruno+Ferreira;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
   <h3>Formações:</h3>
   <ul>
