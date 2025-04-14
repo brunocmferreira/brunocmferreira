@@ -13,7 +13,7 @@
   <h3>Experiências:</h3>
   <ul>
     <li>Blug Tecnologia Ltda (Abril de 2024 - Abril de 2025)</li>
-    Desenvolvedor Web Full Stack com ênfase em Front-End
+    Desenvolvedor Web Fullstack com ênfase em Frontend
     <li>Universidade Federal do Rio de Janeiro (Maio de 2011 - até o presente momento)</li>
     Assistente em Administração com atuação na Pró-Reitoria de Pessoal
   </ul>
